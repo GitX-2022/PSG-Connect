@@ -1,2 +1,2 @@
-# PSG-LinkedIn
-LinkedIn specifically for PSG students
+# PSG-Connect
+An platform to connect seniors and juniors
